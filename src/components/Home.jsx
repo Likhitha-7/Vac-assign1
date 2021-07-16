@@ -13,7 +13,7 @@ function Home() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Home</h1>
+            
             <h3 class="font-weight-light">Hello All!</h3>
             
           </div>

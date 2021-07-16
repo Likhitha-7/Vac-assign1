@@ -13,7 +13,7 @@ function Contact() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">Contact</h1>
+           
             <p>
                 Name: Likhitha Mallu
             </p>

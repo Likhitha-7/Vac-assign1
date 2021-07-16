@@ -13,7 +13,7 @@ function About() {
             />
           </div>
           <div class="col-lg-5">
-            <h1 class="font-weight-light">About</h1>
+            
             <p>
                 Hello everyone My name is LIKHITHA MALLU, currently pursuing my engineering at Presidency University, Bangalore.
             </p>
